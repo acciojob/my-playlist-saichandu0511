@@ -5,9 +5,6 @@ h1{
 h2{
 	text-align:center;
 }
-h3{
-	text-align:center;
-}
 ul{
 	list-style-type:none;
 }
@@ -16,9 +13,14 @@ body{
 }
 video{
 	background-color:rgb(255, 255, 255);
-	padding; border-radius;
+	padding:100px;
+	border-radius:50px;
 }
 audio{
 		background-color:rgb(255, 255, 255);
-    	padding; border-radius;
+    	padding:100px;
+		border-radius:50px;
+}
+a{
+	text-decoration-line:none;
 }
